@@ -1,3 +1,4 @@
 # SingleCellLineageAnalysis
 
-Jupyter notebooks and some code examples for Single Cell Lineage Analysis
+Jupyter notebooks, Rscripts and Matlab Phylocell complement for Single Cell Lineage Analysis
+
